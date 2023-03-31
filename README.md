@@ -1,2 +1,2 @@
 # SimpleCalculator
-A calculator that performs the 4 basic operations
+A calculator made using python that performs the 4 basic operations
